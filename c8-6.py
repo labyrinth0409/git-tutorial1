@@ -1,4 +1,4 @@
-cnt = 1
+cnt = 12
 print(cnt)
 
 cnt += 1
