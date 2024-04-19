@@ -1,4 +1,4 @@
-cnt = 12
+cnt = 1
 print(cnt)
 
 cnt += 1
@@ -11,4 +11,11 @@ cnt += 1
 print(cnt)
 
 cnt += 1
+print(cnt)
+
+cnt = 1
+print(cnt)
+cnt = 1
+print(cnt)
+cnt = 1
 print(cnt)
